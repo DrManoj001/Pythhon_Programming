@@ -1,3 +1,11 @@
+'''Pythagorean triples are a set of 3 positive numbers that fit in the formula of the Pythagoras theorem which is expressed as, 
+a2 + b2 = c2, where a, b, and c are positive integers. 
+Here, 'c' is the 'hypotenuse' or the longest side of the triangle and 'a' and 'b' are the other two legs of the right-angled triangle. 
+The Pythagorean triples are represented as (a,b, c). The most popular example of Pythagorean triples is (3, 4, 5). We can verify that 3, 4 and 5 
+satisfy the equation a2 + b2 = c2. Let us see how! 32 + 42 = 52 ⇒ 9 + 16 = 25. 
+Observe the right-angled triangle given below which shows the Pythagorean triples, 3, 4, and 5.
+'''
+
 limit = int(input("Enter upper limit:"))
 c = 0
 m = 2
